@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hey there! I’m eLhashMIX, a curious coder and lifelong learner on a mission to turn ideas into reality through code. 💡 Currently based in Algeria, I’m diving deep into the world of Java, embracing every challenge along the way.
 
-<!--
-**eLhashMIX/eLhashMIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Right now, I’m:
 
-Here are some ideas to get you started:
+Learning the ins and outs of Js ES6/Node/React, because every day is an opportunity for growth!
+Building a Small Project that would be helpful hopefuly to everyone.
+Exploring collaboration in the open-source community to share and grow together.
+🌱 I believe in the power of community and the magic of mentorship. If you’re passionate about tech, let’s connect! I’d love to swap ideas and learn from each other.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Want to chat? Feel free to reach out via  :
+- [Discord](elhashmix)  
+- [LinkedIn](https://www.linkedin.com/in/amarelhachemicherki/)  
+- [Email](mailto:amar.elhachemi.cherki@gmail.com)
+
+Together, let’s code a brighter future!
