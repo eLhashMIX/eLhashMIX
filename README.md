@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elhashmix" target="blank"><img src="https://img.shields.io/twitter/follow/elhashmix?logo=twitter&style=for-the-badge" alt="elhashmix" /></a> </p>
 
-- 🌱 I’m currently learning **Js ES6/Node/React**
+- 🌱 I’m currently learning **Js/Node/React**
 
 - 🤝 I’m looking for help with learning **anything that will improve my skills**
 
